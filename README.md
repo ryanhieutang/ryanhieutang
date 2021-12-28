@@ -4,7 +4,7 @@
 
 - 📢 I'm half Vietnamese half Chinese
 - 📝 I'm a full-time student
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently enhancing my Javascript knowledge
 - 🛒 I’m into sneaker botting and autocheckouts
 - 🥅 2021 Goals: Complete my first request-based AIO Bot
 
