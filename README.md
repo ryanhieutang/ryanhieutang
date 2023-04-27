@@ -1,6 +1,6 @@
 ### Hi there, I'm Ryan 👋
 
-## I'm a Graphic Designer, UI/UX Designer, and a Web Developer!!
+## I'm a fullstack developer!!
 
 - 📢 I'm half Vietnamese half Chinese
 - 📝 I'm a full-time student
