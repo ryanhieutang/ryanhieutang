@@ -1,12 +1,12 @@
 ### Hi there, I'm Ryan 👋
 
-## I'm a fullstack developer!!
+## I'm a frontend developer!!
 
 - 📢 I'm half Vietnamese half Chinese
 - 📝 I'm a full-time student
 - 🌱 I’m currently enhancing my nodeJS knowledge
 - 🛒 I’m invested in sneaker botting and autocheckouts
-- 🥅 2023 Goals: Complete my first request-based AIO Bot
+- 🥅 2024 Goal: Learn React, NextJS and Firebase
 
 ### 📬 Connect with me:
 
